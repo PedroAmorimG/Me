@@ -1,2 +1,2 @@
 # Pedro Amorim de Gregori
-Estudante de Engenharia de computação na UnB.
+Estudante de Engenharia de Computação na UnB.
